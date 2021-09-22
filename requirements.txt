@@ -1,0 +1,5 @@
+This is chat application
+1. Emoji
+2. Typing option
+3. File sharing option
+4. Theme mode
