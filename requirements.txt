@@ -5,3 +5,5 @@ This is chat application
 4. Theme mode
 5. Video option
 6. dark mode
+7. Voice chat
+8. crate chat group
